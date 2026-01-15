@@ -20,14 +20,14 @@ author: COMBO team
 ###############################################
 
 navbar-links:
-  About:
-    - About Us: "aboutus"
-    - Team : "meettheteam"
+  About Us: "aboutus"
+  Team: "meettheteam"
   Events: "events"
   Workshops: "workshops"
-  Contact Us: "contact"
   Resources: "resources"
-
+  Newsletters: "newsletters"
+  Contact Us: "contact"
+  Press and Media : "press"
 ################
 # --- Logo --- #
 ################

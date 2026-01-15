@@ -7,47 +7,49 @@ weight: 10
 
 # Meet our leadership team!
 
-## Maggie Steiner
+## Liz Gibbons
 ### Director
 
-<img src="https://mkiravn.github.io/COMBO-website/assets/img/maggie.jpg"  width="400" height="400" />
+<img src="https://mkiravn.github.io/COMBO-website/assets/img/liz.jpg"  width="400" height="400" />
 
-Maggie Steiner is a fourth year PhD Candidate in the Department of Human Genetics. Her doctoral research focuses on the development and application computational methods to study evolutionary processes in human genetics. Outside of COMBO, she serves on the Organizing Committee of Expanding Your Horizons Chicago, the Steering Committee of the UChicago Biotechnology Association, and as a Student Representative for the UChicago Medical and Biological Sciences Alumni Council.
+As the Director of COMBO, I coordinate our team's operations to make sure we are all supported, organized, and prepared for every outreach initiative.
 
 
 
-## Jennifer Blanc
+## Daniel Araujo
 ### Head of Outreach
 
-<img src="https://mkiravn.github.io/COMBO-website/assets/img/jennifer.jpg"  width="400" height="400" />
+<img src="https://mkiravn.github.io/COMBO-website/assets/img/daniel.jpg"  width="400" height="400" />
 
-Jennifer Blanc is a PhD student in Human Genetics at the University of Chicago. Her work focuses on developing methods that utilize genetic data to better understand complex trait variation. Jennifer is passionate about teaching and is an active member of the departments DEI committee. As head of outreach, she works with other committee members to reach out to local schools and plan the logistics of COMBO workshops.
-
-
+As the Communication Chair, I am responsible for maintaining and expanding the relationships that UC COMBO has with teachers, schools, and other entities interested in workshops like ours.
 
 ## Ethan Zhong
 ### Volunteer Coordinator
 
 <img src="https://mkiravn.github.io/COMBO-website/assets/img/ethan.png"  width="400" height="400" />
 
-Ethan Zhong is a PhD student in the Department of Human Genetics. His research focuses on leveraging computational methods to study the genetic bases of complex diseases, in particular asthma. Ethan enjoys working with teenagers from diverse background. He is constantly seeking better pedagogical approaches to deliver complex technical concepts to his audiences, hoping to attract more fresh young minds to the exciting field of computational biology.
+As the Volunteer Coordinator, I oversee and support volunteers to ensure the smooth delivery of workshops and events.
 
-
-## Liz Gibbons 
+## Josh Sodicoff 
 ### Head of Scientific Content
 
-<img src="https://mkiravn.github.io/COMBO-website/assets/img/liz.JPG"  width="400" height="400" />
+<img src="https://mkiravn.github.io/COMBO-website/assets/img/josh.jpg"  width="400" height="400" />
 
-Liz is a PhD candidate in the Committee on Genetics, Genomics, and Systems Biology at the University of Chicago. She is interested in the genetic mechanisms shaping human gut microbiome ecology and host-microbe interactions. Liz is passionate about making science fun and accessible. As head of the COMBO content team, she works with other volunteers to create workshops that focus on biology, math, and computer science to illustrate new ways of solving problems.
+As the Scientific Content Chair, I work with a group of dedicated volunteers to develop new workshops and outreach activities to explain computational biology to the public.
 
+## Geena Woo
+### Teaching Chair
+
+<img src="https://mkiravn.github.io/COMBO-website/assets/img/geena.jpg"  width="400" height="400" />
+
+As the Teaching Chair, I refine lesson plans and create resources to help volunteers feel prepared to lead workshops and make our teaching clear and engaging.
 
 ## Marida Ianni-Ravn
 ### Communications Officer
 
 <img src="https://mkiravn.github.io/COMBO-website/assets/img/marida.png"  width="400" height="400" />
 
-Marida is a PhD candidate in Human Genetics at the University of Chicago, where she develops methods to distinguish genetic causes of traits from inherited environmental factors. Marida is passionate about making complex scientific concepts accessible to a broader audience, both through scientific illustration and by participating in outreach events. Additionally, she is having a great time mentoring at a local high school through the iMentor program.
-
+I'm the Marketing Chair, which means I make our brand and marketing materials - think posters, banners, newsletters and merch!
 
 ## John Novembre, Phd
 ### Faculty Advisor
