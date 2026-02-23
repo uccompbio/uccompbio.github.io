@@ -7,7 +7,10 @@ permalink: /newsletters/
 <p>Browse our newsletters below. Click <em>View</em> for an in-page preview, or <em>Download</em> for the PDF.</p>
 
 <div class="row">
-  {%- assign newsletter_pdfs = site.static_files | where_exp: "f", "f.path contains '/assets/newsletters/' and f.extname == '.pdf'" -%}
+  {%- assign newsletter_pdfs = site.static_files
+    | where_exp: "f", "f.path contains '/assets/newsletters/'"
+    | where_exp: "f", "f.extname == '.pdf'"
+  -%}
   {%- assign sorted_pdfs = newsletter_pdfs | sort: "name" | reverse -%}
   {%- for f in sorted_pdfs -%}
     {%- comment -%}
